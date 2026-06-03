@@ -23,7 +23,7 @@ Este código será robusto y confiable y se transformará en nuestro punto de ac
 ## 📷 Capturas
 
 
-![image alt]()
+![image alt](fotos/carpeta y archivos a modificar - copia.png)
 
 Como segunda medida, elegiremos nuestros assets para comprobar su estructura.
 Al dar inicio a nuestro código, se desplegará una consola con las opciones.
