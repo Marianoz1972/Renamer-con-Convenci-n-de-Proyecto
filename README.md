@@ -22,27 +22,29 @@ Este código será robusto y confiable y se transformará en nuestro punto de ac
 
 ## 📷 Capturas
 
+Como segunda medida, crearemos una carpeto donde tendremos los archivos a modificar
 
-![image alt](fotos/carpeta y archivos a modificar - copia.png)
-
-Como segunda medida, elegiremos nuestros assets para comprobar su estructura.
-Al dar inicio a nuestro código, se desplegará una consola con las opciones.
-
-- Podremos analizar nuestra topología.
-
-- Detectar engons
-
-- Detectar cantidad de engons y triángulos.
+![image alt](https://github.com/Marianoz1972/Renamer-con-Convenci-n-de-Proyecto/blob/b041e91d982d03cb9f12cb059dfca3ddaf667e55/fotos/carpeta%20y%20archivos%20a%20modificar%20-%20copia.png)
 
 
-![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/2f4e4e1ee8ba2b68529d9a9f23fca2fce46d7683/Bio_Mariano_zulueta/mala%20topologia.JPG)
+Podesmos usar cmd, o Visual studio code. Colocaremos el codigo que nos permitira tomar los archivos y modificarlos
 
-hora que tenemos nuestro asset vamos a generar mala topología para el ejemplo.
+![image alt](https://github.com/Marianoz1972/Renamer-con-Convenci-n-de-Proyecto/blob/b041e91d982d03cb9f12cb059dfca3ddaf667e55/fotos/Nombre%20sugerido%20despues%20del%20Dry-Run%20-%20copia.png)
+En esta instancia el codigo se ejecutara bajo la premisa de Dry-Run, NO modificara de  plano los archivos solo nos mostrar como van a quedar
 
-![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/bd10d927235041469ae16568193631a414b1f1e7/Bio_Mariano_zulueta/detecta%20engons%20y%20trialgulos.JPG)
+Despues podremos usar una linea mas de codigo --apply
 
-Al utilizar nuestra herramineta podremo visualizar que los engons se iluminan de color rojo.
 
-El resto de los colores son triangulos.
+![image alt](https://github.com/Marianoz1972/Renamer-con-Convenci-n-de-Proyecto/blob/b041e91d982d03cb9f12cb059dfca3ddaf667e55/fotos/resultado%20aplicando%20--apply%20-%20copia.png)
 
-Tambien tendremos el recuento de los mismos.
+Podremos elegir para finalizar dar ok a la modifciacion
+
+
+![image alt]( https://github.com/Marianoz1972/Renamer-con-Convenci-n-de-Proyecto/blob/b041e91d982d03cb9f12cb059dfca3ddaf667e55/fotos/resultadoi%20final%20dando%20ok%20-%20copia.png)
+
+
+## 📷 Video explicativo
+
+
+
+
