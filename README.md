@@ -46,6 +46,10 @@ Podremos elegir para finalizar dar ok a la modifciacion
 ## 📷 Video explicativo
 
 
+https://github.com/user-attachments/assets/b584c663-5836-4dcb-8b80-d512939eb896
+
+
+
 
 
 
