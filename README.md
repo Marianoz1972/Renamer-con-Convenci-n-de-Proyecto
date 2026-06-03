@@ -5,17 +5,17 @@
 
 #  Desarrollo de herramientas para Maya
 
-Desarrollaremos un acceso directo en nuestro panel para simplificar porcesos
+Desarrollaremos una herramineta en Python que nos permitira modificar convenciones en carpetas donde tengamos alojados difretes tipos de archivos
 
-La intención es acceder de manera sencilla a la visualización de errores en nuestra topología.
+La intención es poder modificar gran cantidad de archivos con una idea y tematica de trabajo
 
 ---
 
 ## 📌 Descripción
 
-Como primera medida, desarrollamos el código en lenguaje MEL.
+Como primera medida, desarrollamos el código en lenguaje Python
 
-Este código será robusto y confiable y se transformará en nuestro botón de acceso a las herramientas.
+Este código será robusto y confiable y se transformará en nuestro punto de acceso a las herramientas.
 ---
 
 ## 📷 Capturas
