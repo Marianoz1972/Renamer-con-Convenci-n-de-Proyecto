@@ -15,12 +15,15 @@ La intención es poder modificar gran cantidad de archivos con una idea y temati
 
 Como primera medida, desarrollamos el código en lenguaje Python
 
+Asset Renamer CLI es una herramienta técnica diseñada para organizar archivos digitales de manera profesional.
+
 Este código será robusto y confiable y se transformará en nuestro punto de acceso a las herramientas.
 ---
 
 ## 📷 Capturas
 
-![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/0154bb875d2409886d6c1f06945ab7b79dd5d37f/Bio_Mariano_zulueta/inicio.JPG )
+
+![image alt]()
 
 Como segunda medida, elegiremos nuestros assets para comprobar su estructura.
 Al dar inicio a nuestro código, se desplegará una consola con las opciones.
